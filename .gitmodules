@@ -1,0 +1,6 @@
+[submodule "backend/backend-kangbuah"]
+	path = backend/backend-kangbuah
+	url = https://github.com/giastahmad/backend-kangbuah
+[submodule "frontend/Kang-Buah"]
+	path = frontend/Kang-Buah
+	url = https://github.com/Danendra1-ux/Kang-Buah
